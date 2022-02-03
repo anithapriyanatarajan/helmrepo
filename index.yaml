@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chart4:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-03T09:04:02.554561925Z"
+    description: A Helm chart for git repo verification
+    digest: 9cc5932523b55e7b6aa1d141f07ae2678ac865ddb0ca95e34418af7257b2186e
+    name: chart4
+    type: application
+    urls:
+    - chart4-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-03T09:04:02.549460369Z"
